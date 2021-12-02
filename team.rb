@@ -17,6 +17,7 @@ class Team
 
     def full_info
         puts "#{@city} #{@name}"
+        puts "Stadium: #{@stadium}"
         puts "Coach: #{@coach}"
         puts "Roster: "
         @players.each {|player| puts player}
