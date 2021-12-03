@@ -42,7 +42,7 @@ def seed
 
 
     team1 = Team.new("Kings", "Sydney", "Qudos Bank Arena", "yellow", team1_players, coach1, team1_staff)
-    team2 = Team.new("Taipans", "Cairns", "Cairns Pop-Up Arena", "orange", team2_players, coach2, team2_staff)
+    team2 = Team.new("Taipans", "Cairns", "Cairns Pop-Up Arena", "magenta", team2_players, coach2, team2_staff)
     team3 = Team.new("Bullets", "Brisbane", "Nissan Arena", "blue", team3_players, coach3, team3_staff)
     team4 = Team.new("Hawks", "Illawarra", "WIN Entertainment Centre", "red", team4_players, coach4, team4_staff)
 
